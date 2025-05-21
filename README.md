@@ -8,3 +8,4 @@
 2. [The Index](https://github.com/fethicekinmez/MATLAB-Crash/blob/main/The_Index.m)
 3. [Example 1](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_1)
 4. [Example 2](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_2)
+5. [Example 3](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_3)
