@@ -11,4 +11,4 @@
 5. [Example 3](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_3)
 6. [Example 4](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_4)
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/sLxdNdC6Mds/sddefault.jpg)](https://www.youtube.com/watch?v=7f50sQYjNRA&t=19s)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/7f50sQYjNRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=7f50sQYjNRA&t=19s)
