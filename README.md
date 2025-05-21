@@ -9,3 +9,4 @@
 3. [Example 1](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_1)
 4. [Example 2](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_2)
 5. [Example 3](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_3)
+6. [Example 4](https://github.com/fethicekinmez/MATLAB-Crash/tree/main/Example_4)
